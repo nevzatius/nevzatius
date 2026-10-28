@@ -91,5 +91,4 @@ I'm an **Information Technologies graduate from Mersin University** and a **remo
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,12,20&section=footer" alt="" />
-  footprint-verify-2d1c9c64d3f80f20ef1b90be
 </p>
