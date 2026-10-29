@@ -1,0 +1,70 @@
+{
+  "_note": "Edit this list to add or change events. Dates are YYYY-MM-DD (UTC). 'end' is optional. 'icon' is one of: meteor, moon, eclipse, planet.",
+  "events": [
+    {
+      "start": "2026-11-17",
+      "end": "2026-11-18",
+      "title": "Leonids meteor shower",
+      "detail": "Peak night, about 15 meteors per hour",
+      "icon": "meteor"
+    },
+    {
+      "start": "2026-11-24",
+      "title": "Full Moon (Supermoon)",
+      "detail": "The Beaver Moon",
+      "icon": "moon"
+    },
+    {
+      "start": "2026-12-13",
+      "end": "2026-12-14",
+      "title": "Geminids meteor shower",
+      "detail": "One of the year's best showers, dark skies",
+      "icon": "meteor"
+    },
+    {
+      "start": "2026-12-21",
+      "end": "2026-12-22",
+      "title": "Ursids meteor shower",
+      "detail": "December solstice on Dec 21",
+      "icon": "meteor"
+    },
+    {
+      "start": "2027-01-03",
+      "end": "2027-01-04",
+      "title": "Quadrantids meteor shower",
+      "detail": "Peak night, near New Moon",
+      "icon": "meteor"
+    },
+    {
+      "start": "2027-02-06",
+      "title": "Annular solar eclipse",
+      "detail": "Ring of fire, South America to West Africa",
+      "icon": "eclipse"
+    },
+    {
+      "start": "2027-02-11",
+      "title": "Jupiter at opposition",
+      "detail": "Visible all night, Mars follows on Feb 19",
+      "icon": "planet"
+    },
+    {
+      "start": "2027-08-02",
+      "title": "Total solar eclipse",
+      "detail": "Spain to Egypt, up to 6 min 23 s of totality",
+      "icon": "eclipse"
+    },
+    {
+      "start": "2027-08-12",
+      "end": "2027-08-13",
+      "title": "Perseids meteor shower",
+      "detail": "Peak night, bright Moon this year",
+      "icon": "meteor"
+    },
+    {
+      "start": "2027-10-18",
+      "title": "Saturn at opposition",
+      "detail": "Closest and brightest of the year",
+      "icon": "planet"
+    }
+  ]
+}
