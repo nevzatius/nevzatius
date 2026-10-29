@@ -80,21 +80,6 @@ I'm an **Information Technologies graduate from Mersin University** and a **remo
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nevzatius&theme=github_dark" alt="Top languages by repo" />
 </p>
 
----
-
-## 🌌 Beyond Code
-
-Outside of work, I'm curious about space: astronomy, space exploration and the night sky. It's a good reminder to keep asking questions and to enjoy the long view.
-
-<p>
-  <img src="https://img.shields.io/badge/%F0%9F%94%AD_Astronomy-0B1026?style=flat-square" alt="Astronomy" />
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Space_exploration-0B1026?style=flat-square" alt="Space exploration" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%99_Night_sky-0B1026?style=flat-square" alt="Night sky" />
-</p>
-
----
-
-## 📫 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/nevzatius"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
