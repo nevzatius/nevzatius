@@ -1,11 +1,11 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="assets/space-banner.svg" alt="Nevzatcan Çelik, Software Developer. Animated space banner with a spinning black hole." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,100:1E3A8A&text=Nevzatcan%20%C3%87elik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Nevzatcan Çelik – Software Developer" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Windows+desktop+apps+on+the+Microsoft+Store;Open+to+software+developer+roles;Curious+about+space+and+the+night+sky" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Front-end+%C2%B7+Back-end+%C2%B7+Full-stack;Windows+desktop+apps+on+the+Microsoft+Store;Open+to+software+developer+roles;Curious+about+space+and+the+night+sky" alt="Typing animation" />
   </a>
 </p>
 
@@ -84,11 +84,7 @@ I'm an **Information Technologies graduate from Mersin University** and a **remo
 
 ## 🌌 Beyond Code
 
-Outside of work, I'm curious about space: astronomy, space exploration and the night sky. This is what's coming up overhead next:
-
-<p align="center">
-  <img src="assets/space-events.svg" alt="Upcoming sky events: meteor showers, eclipses and more" width="100%" />
-</p>
+Outside of work, I'm curious about space: astronomy, space exploration and the night sky. It's a good reminder to keep asking questions and to enjoy the long view.
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%94%AD_Astronomy-0B1026?style=flat-square" alt="Astronomy" />
